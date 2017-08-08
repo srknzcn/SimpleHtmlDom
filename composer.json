@@ -1,0 +1,16 @@
+{
+    "name": "srknzcn/simplehtmldom",
+    "description": "PHP Simple HTML DOM Parser clone of http://simplehtmldom.sourceforge.net",
+    "version": "1.0",
+    "authors": [
+        {
+            "name": "SRKNZCN",
+            "email": "serkanozcan@gmail.com"
+        }
+    ],
+    "autoload": {
+		"psr-4": {
+			"SimpleHtmlDom\\": "src/"
+		}
+	}
+}
